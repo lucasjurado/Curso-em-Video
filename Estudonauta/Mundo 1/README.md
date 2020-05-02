@@ -1,5 +1,5 @@
 # **Mundo 01**
 
-🐍**Lista de Exercícios:**
+**Lista de Exercícios:**
 
    - ex000
