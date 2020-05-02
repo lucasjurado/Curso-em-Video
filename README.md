@@ -1,6 +1,6 @@
 # **Python**
 
-🐍**Lista de Projetos:**
+**Lista de Projetos:**
 
 1. [Estudonauta](https://www.estudonauta.com/) & [Curso em vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
    1. mundo 01: [Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
