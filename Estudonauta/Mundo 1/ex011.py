@@ -1,0 +1,5 @@
+m=float(input('Digite um valor em metros: '))
+cm=(m*100)
+mm=(m*1000)
+km=(m/1000)
+print('{:.2f} m equivale a {:.2f} km, {:.2f} cm e {:.2f} mm.'.format(m,km,cm,mm))
