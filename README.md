@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Python**
 
 **Lista de Projetos:**
@@ -12,3 +13,7 @@
    2. lógica de programação
    
 3. [Hackthon ImagiMaker](https://imagimaker.com.br/)
+=======
+# Python
+ 
+>>>>>>> parent of 0516bb0... Update main
