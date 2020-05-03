@@ -2,34 +2,34 @@
 
 **Lista de Exercícios:**
 
-   - ex000:
-   - ex001:
-   - ex002:
-   - ex003:
-   - ex004:
-   - ex005:
-   - ex006:
-   - ex007:
-   - ex008:
-   - ex009:
-   - ex010:
-   - ex011:
-   - ex012:
-   - ex013:
-   - ex014:
-   - ex015:
-   - ex016:
-   - ex017:
-   - ex018:
-   - ex019:
-   - ex020:
-   - ex021:
-   - ex022:
-   - ex023:
-   - ex024:
-   - ex025:
-   - ex026:
-   - ex027:
+   - ex000: **"Hello Word"** test.
+   - ex001: Apresentando a função **PRINT**.
+   - ex002: Respondendo ao usuário > apresentando **INPUT**.
+   - ex003: Somando dois números > **(n1+n2)**.
+   - ex004: Tipo primitivo > **TYPE()**.
+   - ex005: Somando e usando **máscaras { }**.
+   - ex006: Testes de tipos e saída de dados > **ISALPHA, ISALNUM, ISUPPER**.
+   - ex008: **Operadores aritméticos** > (+, -, /, //, **).
+   - ex009: Cálculo da **Média**.
+   - ex010: Conversor de medidas > **(m -> cm -> mm)**.
+   - ex011: Antecessor e Sucessor > **(n, (n-1), (n+1))**.
+   - ex012: **Tabuada** simples.
+   - ex013: Conversor monetário > **(R$ -> US$)**.
+   - ex014: Pintando uma parede > cálculo de **área**.
+   - ex015: Cálculo de **Desconto** e **Porcentagem**.
+   - ex016: Conversor de temperatura > **(°C -> °F)**
+   - ex017: Aluguel de carros.
+   - ex018: Importando **Bibliotecas** > **(import MATH)**.
+   - ex019: Escolher número aleatório > **(import RANDOM)**.
+   - ex020: Emoji > **(import EMOJI)**.
+   - ex021: Quebrando um número > **(MATH.trunc(num))**.
+   - ex022: Cálculo do valor da hipotenusa de um **triângulo retângulo** > **(MATH.sqrt & MATH.hypot)**.
+   - ex023: Cálculo do **seno, cosseno e tangente** de um ângulo > **(MATH.radians, MATH.sin, MATH.cos, MATH.tan)**.
+   - ex024: **Sorteando** um item na lista > **(RANDOM.choice())**.
+   - ex025: **Sorteando** uma ordem na lista > **(RANDOM.sample())**.
+   - ex026: Tocando um arquivo **MP3**.
+   ---
+   - ex027: teste
    - ex028:
    - ex029:
    - ex030:
