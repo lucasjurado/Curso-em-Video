@@ -1,6 +1,7 @@
 # **Mundo 01**: [Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
-**Lista de Exercícios:**
+# **Lista de Exercícios:**
+### Comandos Básicos
 
    - ex000: **"Hello Word"** test.
    - ex001: Apresentando a função **PRINT**.
@@ -9,7 +10,9 @@
    - ex004: Tipo primitivo > **TYPE()**.
    - ex005: Somando e usando **máscaras { }**.
    - ex006: Testes de tipos e saída de dados > **ISALPHA, ISALNUM, ISUPPER**.
-   - ex008: **Operadores aritméticos** > (+, -, /, //, **).
+---
+### Operadores aritméticos
+   - ex008: **Soma, Subtração, Divisão, Divisão inteira, Potência, Resto da divisão** > (+, -, /, //, **, %).
    - ex009: Cálculo da **Média**.
    - ex010: Conversor de medidas > **(m -> cm -> mm)**.
    - ex011: Antecessor e Sucessor > **(n, (n-1), (n+1))**.
@@ -29,6 +32,7 @@
    - ex025: **Sorteando** uma ordem na lista > **(RANDOM.sample())**.
    - ex026: Tocando um arquivo **MP3**.
    ---
+# Manipulando Texto
    - ex027: teste
    - ex028:
    - ex029:
