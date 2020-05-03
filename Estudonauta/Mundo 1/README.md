@@ -51,5 +51,6 @@
    - ex039: Maior e Menor valores.
    - ex040: Aumentos múltiplos do salário.
    - ex041: Analisando Triângulo [v1.0].
+---
 ### Cores no Terminal
    - ex042: Teste utilizando cores no print.
