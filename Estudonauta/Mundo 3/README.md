@@ -1,14 +1,52 @@
-# **Python**
+# **Mundo 03**: [Estruturas Compostas](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
-🐍**Lista de Projetos:**
+**Lista de Exercícios:**
 
-1. [Estudonauta](https://www.estudonauta.com/) & [Curso em vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-   1. mundo 01: [Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-   2. mundo 02: [Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-   3. mundo 03: [Estruturas Compostas](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
-   
-2. [ADS - Faculdade Impacta](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas)
-   1. linguagem de programação I
-   2. lógica de programação
-   
-3. [Hackthon ImagiMaker](https://imagimaker.com.br/)
+   - ex087:
+   - ex088:
+   - ex089:
+   - ex090:
+   - ex091:
+   - ex092:
+   - ex093:
+   - ex094:
+   - ex095:
+   - ex096:
+   - ex097:
+   - ex098:
+   - ex099:
+   - ex100:
+   - ex101:
+   - ex102:
+   - ex103:
+   - ex104:
+   - ex105:
+   - ex106:
+   - ex107:
+   - ex108:
+   - ex109:
+   - ex110:
+   - ex111:
+   - ex112:
+   - ex113:
+   - ex114:
+   - ex115:
+   - ex116:
+   - ex117:
+   - ex118:
+   - ex119:
+   - ex120:
+   - ex121:
+   - ex122:
+   - ex123:
+   - ex124:
+   - ex125:
+   - ex126:
+   - ex127:
+   - ex128:
+   - ex129:
+   - ex130:
+   - ex131:
+   - ex132:
+   - ex133:
+   - ex134:

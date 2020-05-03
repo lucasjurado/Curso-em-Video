@@ -1,14 +1,50 @@
-# **Python**
+# **Mundo 02**: [Estruturas de Controle (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
-🐍**Lista de Projetos:**
+# **Lista de Exercícios:**
 
-1. [Estudonauta](https://www.estudonauta.com/) & [Curso em vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-   1. mundo 01: [Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-   2. mundo 02: [Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-   3. mundo 03: [Estruturas Compostas](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
-   
-2. [ADS - Faculdade Impacta](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas)
-   1. linguagem de programação I
-   2. lógica de programação
-   
-3. [Hackthon ImagiMaker](https://imagimaker.com.br/)
+### Condições I: if...else
+   - ex044: 
+   - ex045:
+   - ex046:
+   - ex047:
+   - ex048:
+   - ex049:
+   - ex050:
+   - ex051:
+---
+### ...
+   - ex052:
+   - ex053:
+   - ex054:
+   - ex055:
+   - ex056:
+   - ex057:
+   - ex058:
+   - ex059:
+   - ex060:
+   - ex061:
+   - ex062:
+   - ex063:
+   - ex064:
+   - ex065:
+   - ex066:
+   - ex067:
+   - ex068:
+   - ex069:
+   - ex070:
+   - ex071:
+   - ex072:
+   - ex073:
+   - ex074:
+   - ex075:
+   - ex076:
+   - ex077:
+   - ex078:
+   - ex079:
+   - ex080:
+   - ex081:
+   - ex082:
+   - ex083:
+   - ex084:
+   - ex085:
+   - ex086:
