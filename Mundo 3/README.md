@@ -1,6 +1,6 @@
 # **Mundo 03**: [Estruturas Compostas (YouTube)](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
-# **Lista de Exercícios:**
+## **Lista de Exercícios:**
 
 ### Tuplas
    - ex087:
