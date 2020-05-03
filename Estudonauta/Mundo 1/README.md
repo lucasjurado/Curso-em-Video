@@ -1,4 +1,4 @@
-# **Mundo 01**: [Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+# **Mundo 01**: [Fundamentos(YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 # **Lista de Exercícios:**
 ### Comandos Básicos
