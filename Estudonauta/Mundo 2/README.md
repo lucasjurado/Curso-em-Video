@@ -1,6 +1,7 @@
-# **Mundo 02**: [Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+# **Mundo 02**: [Estruturas de Controle (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
-**Lista de Exercícios:**
+# **Lista de Exercícios:**
+### Comandos Básicos
 
    - ex044:
    - ex045:
@@ -10,6 +11,8 @@
    - ex049:
    - ex050:
    - ex051:
+---
+### Operadores Aritméticos
    - ex052:
    - ex053:
    - ex054:
