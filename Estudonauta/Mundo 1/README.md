@@ -53,4 +53,4 @@
    - ex041: Analisando Triângulo [v1.0].
 ---
 ### Cores no Terminal
-   - ex042: Teste utilizando cores no print.
+   - ex042: Criando um **Dicionário** de cores.
