@@ -1,8 +1,8 @@
 # **Mundo 02**: [Estruturas de Controle (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
 # **Lista de Exercícios:**
-### Condições I: if...else
 
+### Condições I: if...else
    - ex044: 
    - ex045:
    - ex046:
