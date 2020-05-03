@@ -1,6 +1,6 @@
 # **Mundo 01**: [Fundamentos(YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
-# **Lista de Exercícios:**
+## **Lista de Exercícios:**
 ### Comandos Básicos
    - ex000: **"Hello Word"** test.
    - ex001: Apresentando a função **PRINT**.
