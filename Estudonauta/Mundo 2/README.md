@@ -1,9 +1,9 @@
 # **Mundo 02**: [Estruturas de Controle (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
 # **Lista de Exercícios:**
-### Comandos Básicos
+### Condições I: if...else
 
-   - ex044:
+   - ex044: 
    - ex045:
    - ex046:
    - ex047:
@@ -12,7 +12,7 @@
    - ex050:
    - ex051:
 ---
-### Operadores Aritméticos
+### ...
    - ex052:
    - ex053:
    - ex054:
