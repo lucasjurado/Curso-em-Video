@@ -10,7 +10,7 @@
    - ex048: **Média** escolar > if...elif.
    - ex050: Classificando atletas pela idade.
    - ex051: Analisando Triângulos [v2.0]
-   - ex052: **ICM**.
+   - ex052: Calculando o **IMC**.
    - ex053: Gerenciador de pagamentos (à vista x cartão de crédito).
    - ex054: Jogo de **JOKENPÔ**.
 ---
