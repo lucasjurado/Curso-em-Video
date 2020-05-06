@@ -10,7 +10,7 @@
    - ex091: Lista de preços.
    - ex092: Contando vogais > **for p in palavras:**
 ---
-### Listas: var = [ ]  or  var = lst( )
+### Listas: var = [ ]
    - ex093: Maior e Menor valores na Lista > **for pos, val in enumerate(lst):**
    - ex094: Valores únicos em uma Lista + ordem crescente > **lst.append(txt) & lst.sort()**.
    - ex095: Lista ordenada sem repetições.
